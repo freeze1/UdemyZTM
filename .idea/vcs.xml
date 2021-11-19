@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Hotel_Reservation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hotel_Reservation/Reservation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hotel_Reservation/Reservation/Hotel-Reservation-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hotel_Reservation/Reservation/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pythonProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pythonProject/Reservation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pythonProject/Reservation/Hotel-Reservation-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pythonProject/Reservation/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_webapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_webapp/Flask-Web-App-Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_webapp/master" vcs="Git" />
+  </component>
+</project>
