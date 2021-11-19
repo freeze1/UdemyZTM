@@ -2,7 +2,7 @@ import pytest
 
 
 def func(x):
-    return x + 5
+    return x + 10
 
 
 def test_method():
