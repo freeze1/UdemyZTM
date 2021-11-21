@@ -7,3 +7,6 @@ def func(x):
 
 def test_method():
     assert func(3) == 8
+
+def test_policy():
+    assert func(4) == 14
