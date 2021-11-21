@@ -10,3 +10,7 @@ def test_method():
 
 def test_policy():
     assert func(4) == 14
+
+
+def test_cancellation():
+    assert func(5) == 15
